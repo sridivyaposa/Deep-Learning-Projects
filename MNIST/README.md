@@ -1,1 +1,1 @@
-We will be using a MLP(Multi Layer Perceptron) to classify images from the MNIST database hand-written digit database
+This project is to classify images from the MNIST database hand-written digit database using MLP(Multi Layer Perceptron)
